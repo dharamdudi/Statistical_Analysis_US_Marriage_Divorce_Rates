@@ -5,7 +5,7 @@
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dharamdudi/Statistical_Analysis_US_Marriage_Divorce_Rates)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/dharamdudi/Statistical_Analysis_US_Marriage_Divorce_Rates)
 
-# Statistical_Analysis_US_Marriage_Divorce_Rates
+# Statistical Analysis of US Marriage & Divorce Rates
 In this project, I have performed statistical analysis on the marriage and divorce rates of states of USA.
 
 The dataset contains the marriage and divorce rates of the years 1990, 1995 and 1999-2021. The dataset is downloaded from the following link: 
